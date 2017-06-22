@@ -2,7 +2,7 @@
 var flashcard = require('./flashcard.js');
 
 //require cloze
-var cloze = require('./cloze.js');
+var clozeFlashcard = require('./cloze.js');
 
 //require inquire
 var inquirer = require('inquirer');
